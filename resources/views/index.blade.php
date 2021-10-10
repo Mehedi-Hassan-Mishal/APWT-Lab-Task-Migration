@@ -17,7 +17,7 @@
             <div class="table">
                 <br>
                 
-                <a class="btn btn-primary" href="{{route('products.create')}}">Add New Product</a><br><br>
+                <a class="btn btn-success" href="{{route('products.create')}}">Add New Product</a><br><br>
           <table>
               <tr>
           <th>Id</th>
